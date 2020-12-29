@@ -1,0 +1,5 @@
+2020/12/29-17:28:22.945 b2e Reusing MANIFEST /home/ramkumar/.config/falkon/profiles/manjaro/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/29-17:33:37.324 b86 Level-0 table #5: started
+2020/12/29-17:33:37.377 b86 Level-0 table #5: 5487 bytes OK
+2020/12/29-17:33:37.413 b86 Delete type=0 #3
+2020/12/29-17:33:37.413 b86 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

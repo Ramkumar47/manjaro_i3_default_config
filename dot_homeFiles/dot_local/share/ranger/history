@@ -1,0 +1,3 @@
+shell mkdir ranger
+shell mkdir i3_configuration
+shell gvim readme.txt
